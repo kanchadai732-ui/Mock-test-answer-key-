@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>CTET Mock Test - Answer Key</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        padding: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f4f6f8;
+        color: #222;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: auto;
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 3px 15px rgba(0,0,0,0.10);
+    }
+
+    h1 {
+        text-align: center;
+        margin: 0;
+        font-size: 30px;
+    }
+
+    .subtitle {
+        text-align: center;
+        color: #666;
+        margin: 8px 0 25px;
+    }
+
+    .print-btn {
+        display: block;
+        margin: 0 auto 30px;
+        padding: 12px 22px;
+        border: none;
+        border-radius: 7px;
+        background: #222;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    .print-btn:hover {
+        background: #444;
+    }
+
+    h2 {
+        margin-top: 35px;
+        padding-bottom: 9px;
+        border-bottom: 2px solid #222;
+        font-size: 22px;
+    }
+
+    .answers {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 9px;
+        margin-top: 15px;
+    }
+
+    .answer {
+        padding: 10px 6px;
+        text-align: center;
+        font-weight: bold;
+        background: #f1f3f5;
+        border-radius: 6px;
+    }
+
+    @media (max-width: 650px) {
+        body {
+            padding: 10px;
+        }
+
+        .container {
+            padding: 18px;
+        }
+
+        .answers {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        h1 {
+            font-size: 25px;
+        }
+    }
+
+    @media print {
+        body {
+            background: white;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 100%;
+            box-shadow: none;
+            border-radius: 0;
+        }
+
+        .print-btn {
+            display: none;
+        }
+
+        h2 {
+            page-break-after: avoid;
+        }
+
+        .answers {
+            page-break-inside: avoid;
+        }
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>CTET Mock Test — Answer Key</h1>
+
+    <div class="subtitle">
+        Complete Answer Key • Questions 1–150
+    </div>
+
+    <button class="print-btn" onclick="window.print()">
+        🖨️ Print / Save as PDF
+    </button>
+
+
+    <!-- CDP -->
+
+    <h2>CDP — Questions 1–30</h2>
+
+    <div class="answers">
+
+        <div class="answer">1 — B</div>
+        <div class="answer">2 — B</div>
+        <div class="answer">3 — B</div>
+        <div class="answer">4 — B</div>
+        <div class="answer">5 — C</div>
+
+        <div class="answer">6 — C</div>
+        <div class="answer">7 — B</div>
+        <div class="answer">8 — C</div>
+        <div class="answer">9 — B</div>
+        <div class="answer">10 — D</div>
+
+        <div class="answer">11 — B</div>
+        <div class="answer">12 — C</div>
+        <div class="answer">13 — B</div>
+        <div class="answer">14 — A</div>
+        <div class="answer">15 — A</div>
+
+        <div class="answer">16 — C</div>
+        <div class="answer">17 — B</div>
+        <div class="answer">18 — A</div>
+        <div class="answer">19 — C</div>
+        <div class="answer">20 — B</div>
+
+        <div class="answer">21 — B</div>
+        <div class="answer">22 — A</div>
+        <div class="answer">23 — B</div>
+        <div class="answer">24 — B</div>
+        <div class="answer">25 — D</div>
+
+        <div class="answer">26 — C</div>
+        <div class="answer">27 — B</div>
+        <div class="answer">28 — B</div>
+        <div class="answer">29 — A</div>
+        <div class="answer">30 — B</div>
+
+    </div>
+
+
+    <!-- SOCIAL SCIENCE -->
+
+    <h2>Social Science — Questions 31–90</h2>
+
+    <div class="answers">
+
+        <div class="answer">31 — C</div>
+        <div class="answer">32 — B</div>
+        <div class="answer">33 — C</div>
+        <div class="answer">34 — C</div>
+        <div class="answer">35 — B</div>
+
+        <div class="answer">36 — C</div>
+        <div class="answer">37 — B</div>
+        <div class="answer">38 — C</div>
+        <div class="answer">39 — B</div>
+        <div class="answer">40 — C</div>
+
+        <div class="answer">41 — B</div>
+        <div class="answer">42 — C</div>
+        <div class="answer">43 — B</div>
+        <div class="answer">44 — C</div>
+        <div class="answer">45 — A</div>
+
+        <div class="answer">46 — A</div>
+        <div class="answer">47 — B</div>
+        <div class="answer">48 — B</div>
+        <div class="answer">49 — A</div>
+        <div class="answer">50 — B</div>
+
+        <div class="answer">51 — A</div>
+        <div class="answer">52 — B</div>
+        <div class="answer">53 — C</div>
+        <div class="answer">54 — A</div>
+        <div class="answer">55 — C</div>
+
+        <div class="answer">56 — B</div>
+        <div class="answer">57 — B</div>
+        <div class="answer">58 — A</div>
+        <div class="answer">59 — B</div>
+        <div class="answer">60 — D</div>
+
+        <div class="answer">61 — A</div>
+        <div class="answer">62 — B</div>
+        <div class="answer">63 — A</div>
+        <div class="answer">64 — C</div>
+        <div class="answer">65 — A</div>
+
+        <div class="answer">66 — C</div>
+        <div class="answer">67 — A</div>
+        <div class="answer">68 — A</div>
+        <div class="answer">69 — D</div>
+        <div class="answer">70 — B</div>
+
+        <div class="answer">71 — B</div>
+        <div class="answer">72 — D</div>
+        <div class="answer">73 — B</div>
+        <div class="answer">74 — B</div>
+        <div class="answer">75 — C</div>
+
+        <div class="answer">76 — B</div>
+        <div class="answer">77 — C</div>
+        <div class="answer">78 — B</div>
+        <div class="answer">79 — C</div>
+        <div class="answer">80 — C</div>
+
+        <div class="answer">81 — B</div>
+        <div class="answer">82 — D</div>
+        <div class="answer">83 — B</div>
+        <div class="answer">84 — B</div>
+        <div class="answer">85 — C</div>
+
+        <div class="answer">86 — B</div>
+        <div class="answer">87 — C</div>
+        <div class="answer">88 — B</div>
+        <div class="answer">89 — C</div>
+        <div class="answer">90 — C</div>
+
+    </div>
+
+
+    <!-- ENGLISH -->
+
+    <h2>English Language I — Questions 91–120</h2>
+
+    <div class="answers">
+
+        <div class="answer">91 — B</div>
+        <div class="answer">92 — C</div>
+        <div class="answer">93 — A</div>
+        <div class="answer">94 — B</div>
+        <div class="answer">95 — C</div>
+
+        <div class="answer">96 — B</div>
+        <div class="answer">97 — C</div>
+        <div class="answer">98 — B</div>
+        <div class="answer">99 — A</div>
+        <div class="answer">100 — B</div>
+
+        <div class="answer">101 — B</div>
+        <div class="answer">102 — B</div>
+        <div class="answer">103 — B</div>
+        <div class="answer">104 — C</div>
+        <div class="answer">105 — B</div>
+
+        <div class="answer">106 — C</div>
+        <div class="answer">107 — A</div>
+        <div class="answer">108 — C</div>
+        <div class="answer">109 — D</div>
+        <div class="answer">110 — A</div>
+
+        <div class="answer">111 — B</div>
+        <div class="answer">112 — C</div>
+        <div class="answer">113 — A</div>
+        <div class="answer">114 — B</div>
+        <div class="answer">115 — C</div>
+
+        <div class="answer">116 — B</div>
+        <div class="answer">117 — D</div>
+        <div class="answer">118 — C</div>
+        <div class="answer">119 — C</div>
+        <div class="answer">120 — A</div>
+
+    </div>
+
+
+    <!-- ASSAMESE -->
+
+    <h2>Assamese Language II — Questions 121–150</h2>
+
+    <div class="answers">
+
+        <div class="answer">121 — C</div>
+        <div class="answer">122 — B</div>
+        <div class="answer">123 — B</div>
+        <div class="answer">124 — A</div>
+        <div class="answer">125 — D</div>
+
+        <div class="answer">126 — C</div>
+        <div class="answer">127 — A</div>
+        <div class="answer">128 — B</div>
+        <div class="answer">129 — B</div>
+        <div class="answer">130 — B</div>
+
+        <div class="answer">131 — A</div>
+        <div class="answer">132 — C</div>
+        <div class="answer">133 — B</div>
+        <div class="answer">134 — A</div>
+        <div class="answer">135 — C</div>
+
+        <div class="answer">136 — C</div>
+        <div class="answer">137 — B</div>
+        <div class="answer">138 — B</div>
+        <div class="answer">139 — A</div>
+        <div class="answer">140 — C</div>
+
+        <div class="answer">141 — B</div>
+        <div class="answer">142 — C</div>
+        <div class="answer">143 — A</div>
+        <div class="answer">144 — B</div>
+        <div class="answer">145 — B</div>
+
+        <div class="answer">146 — C</div>
+        <div class="answer">147 — B</div>
+        <div class="answer">148 — B</div>
+        <div class="answer">149 — C</div>
+        <div class="answer">150 — B</div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
